@@ -1,6 +1,6 @@
 name: color_rgb_a
-description: Represents a color in the red-green-blue scheme with an optional alpha component. Designed for use with both Flutter and CSS.
-version: 0.0.1
+description: Deprecated. Now part of shared_theme. Represents a color in the red-green-blue scheme with an optional alpha component. Designed for use with both Flutter and CSS.
+version: 0.0.1+1
 author: Jacob Phillips <jifalops@gmail.com>
 homepage: https://github.com/jifalops/color_rgb_a
 
